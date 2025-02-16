@@ -10,12 +10,12 @@ const Services = () => {
         <div id="services" className="bg-gray-100 py-12" >
             <section data-aos="zoom-in-down">
                     <div className="my-4 py-4">
-                        <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">services</h2>
+                        <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Key Points</h2>
                         
                         <div className='flex justify-center'>
                             <div className='w-24 border-b-4 border-blue-900'></div>
                         </div>
-                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">We are deeply committed to the growth and success of our clients.</h2>
+                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">Accelerating Your Outreach and Sales</h2>
                     </div>
 
                     <div className="px-12" data-aos="fade-down" data-aos-delay="600">
@@ -24,9 +24,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Business Address</h2>
                                     <p className="text-md font-medium">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                    A business address allows you to send physical mail, whether it's contracts, promotional materials, or personalized gifts to build relationships. It also helps with targeted local marketing strategies.
                                     </p>
                                 </div>
                             </div>
@@ -34,9 +34,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Mobile App Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Phone Number</h2>
                                     <p className="text-md font-medium">
-                                        We develop high-quality, custom cross-platform mobile applications that are robust and optimized for performance, scalability, and accessibility.
+                                        A direct phone number lets you instantly connect with prospects through calls and text messages. You can use it for manual outreach or scale up with dialers and automated text campaigns to reach more leads in less time.
                                     </p>
                                 </div>
                             </div>
@@ -44,9 +44,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">Domain and Hosting Services</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Website</h2>
                                     <p className="text-md font-medium">
-                                        We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
+                                        A company’s website is a goldmine of insights. By analyzing its content, you can identify specific pain points and craft a more effective pitch, making your communication highly relevant and impactful.
                                     </p>
                                 </div>
                             </div>
@@ -54,9 +54,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">General IT Consultations</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Email Address</h2>
                                     <p className="text-md font-medium">
-                                        Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
+                                    An email address enables direct and scalable outreach. Whether through one-on-one communication or automated email campaigns, you can engage leads effectively and nurture them into long-term clients.
                                     </p>
                                 </div>
                             </div>                    
@@ -75,7 +75,7 @@ const Services = () => {
                             font-bold">We <span className='font-black'>Build</span></h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>
-                                    With over 10 years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.
+                                At Community Tech, we build cutting-edge, AI-powered lead generation solutions designed exclusively for freight brokers. Leveraging advanced automation and data analysis, we deliver hyperlocal, up-to-date contact lists that free you from tedious manual searches—allowing you to focus on what really matters: closing deals and growing your business.
                                 </p>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ const Services = () => {
                             </div>
                             <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collaborate</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>We work side-by-side with freight brokers to integrate our solution seamlessly into your daily workflow. Whether it's optimizing your outreach strategies or providing ongoing support and training, our collaborative approach ensures you maximize every lead. Together, we turn time savings into tangible revenue, empowering you to dominate your market.</p>
                             </div>
                         </div>
                     </div>
