@@ -29,13 +29,13 @@ const Footer = () => {
                         <h6 className="text-[#013289] text-xl font-bold mb-4">LINKS</h6>
                         <ul className="text-md">
                         <li className="mb-2">
-                            <HashLink to="/#about" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">About</HashLink>
+                            <HashLink to="/#about" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Conocenos</HashLink>
                         </li>
                         <li className="mb-2">
-                            <HashLink to="/#services" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Keypoints</HashLink>
+                            <HashLink to="/#services" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Servicios</HashLink>
                         </li>
                         <li className="mb-2">
-                            <HashLink to="/#portfolio" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Pricing</HashLink>
+                            <HashLink to="/#portfolio" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Precios</HashLink>
                         </li>                            
                         </ul>
                     </div>
@@ -65,11 +65,11 @@ const Footer = () => {
                                         {/* 4th block */}
                     <div className="col-span-12 text-center mx-auto lg:col-span-3 font-bold uppercase text-blue-900">
                         <div className="text-xl mb-6">
-                            Follow Us
+                            Siguenos
                         </div>
 
                         <div className="text-md font-medium mb-6">
-                            Follow us on Facebook
+                            Siguenos en Facebook
                         </div>
 
                         <div className="mx-auto text-center mt-2">

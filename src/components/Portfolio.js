@@ -5,7 +5,8 @@ const Portfolio = () => {
     return (
         <>
             <div className="my-4 py-4" id='portfolio'>
-                <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Pricing</h2>
+                <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Precios y Planes: Impulsa el Futuro de tu Negocio
+                </h2>
                 <div className='flex justify-center'>
                     <div className='w-24 border-b-4 border-blue-900 mb-8'></div>
                 </div>
@@ -14,13 +15,13 @@ const Portfolio = () => {
                     <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">                            
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3 min-h-max">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Full Contact List – All the Essentials for Only $40</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Rastreo de Negocios – $150 Mensuales</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br>For just $40, get a fully curated contact list featuring the company name, physical address, phone numbers, website, and email. Our advanced AI-powered process ensures that each list is hyperlocal, up-to-date, and ready for immediate outreach. Whether you're dialing, texting, emailing, or even sending direct mail, this complete list provides you with all the essential details to accelerate your sales and maximize your results.
+                               <br></br>Por solo $150, recibe 4 listas (1 por semana) de contactos hiperlocales y actualizados que incluye el nombre del negocio, dirección, teléfono y, cuando esté disponible, sitio web y correo electrónico. Con un mínimo de 4 listas, este servicio te libera de tareas tediosas, permitiéndote concentrarte en hacer crecer tu negocio.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Schedule Demo
+                                        Contáctanos
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
@@ -29,13 +30,13 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Basic Package – Essential Contact Lists for $100/month</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Consultoría Estratégica – $150 (Pago Único)</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br>For just $100/month, receive one meticulously curated contact list per week (total 4 per month) featuring targeted phone numbers for freight brokers. Perfect for rapid outreach, you can add addresses, websites and emails for only $10 per list or upgrade to full details with additional lists at $40 each.
+                                <br></br>Por solo $150, accede a una consultoría integral que incluye guiones efectivos, plantillas de trabajo en Google Sheets, capacitación y procesos claros para optimizar tus estrategias de contacto en frío. Transforma cada interacción en una oportunidad para cambiar el rumbo de tu negocio.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Schedule Demo
+                                        Contáctanos
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
@@ -55,13 +56,15 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Standard Outreach Package – Elevate Your Prospecting for $150/Month</h4>
+                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Appointment Setting -<br></br>Desde $500 Mensuales</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br> <br></br>For only $150/month, get two curated contact lists per week (total 8 per month). Half come with full details, while the rest feature phone numbers only. Upgrade any list to full details for just $5 or add extra lists with complete data at $30 each.
+                                <br></br> Confía en nuestro equipo especializado para agendar citas y conectar a tus prospectos con oportunidades reales. Con opciones flexibles adaptadas a tus necesidades, este servicio te libera de tareas operativas para que puedas concentrarte en cerrar ventas y transformar tu negocio.
+
+
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Schedule Demo
+                                        Contáctanos
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
@@ -70,13 +73,13 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Premium Outreach Package – Maximize Your Leads for $200/Month</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Marketing Digital – $500 Mensuales</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    <br></br><br></br>For $200/month, get three curated contact lists per week (total 12 per month) with complete details including addresses, phone numbers, websites and emails. Need more leads? Additional lists are available for just $20 each.
+                                    <br></br>Con $500 al mes, gestionamos y optimizamos campañas publicitarias en plataformas como Facebook e Instagram. Nuestro servicio te ayuda a generar prospectos calificados, conectándote con la audiencia adecuada y potenciando el crecimiento de tu negocio.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Schedule Demo
+                                        Contáctanos
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
