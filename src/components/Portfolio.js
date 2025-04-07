@@ -15,9 +15,9 @@ const Portfolio = () => {
                     <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">                            
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3 min-h-max">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Rastreo de Negocios – $150 Mensuales</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Rastreo de Negocios – $200 Mensuales</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                               <br></br>Por solo $150, recibe 4 listas (1 por semana) de contactos hiperlocales y actualizados que incluye el nombre del negocio, dirección, teléfono y, cuando esté disponible, sitio web y correo electrónico. Con un mínimo de 4 listas, este servicio te libera de tareas tediosas, permitiéndote concentrarte en hacer crecer tu negocio.
+                               <br></br>Por solo $200, recibe 4 listas (1 por semana) de contactos hiperlocales y actualizados que incluye el nombre del negocio, dirección, teléfono y, cuando esté disponible, sitio web y correo electrónico. Con un mínimo de 4 listas, este servicio te libera de tareas tediosas, permitiéndote concentrarte en hacer crecer tu negocio.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -30,9 +30,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Consultoría Estratégica – $150 (Pago Único)</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">capacitación Estratégica – $200 (Pago Único)</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br>Por solo $150, accede a una consultoría integral que incluye guiones efectivos, plantillas de trabajo en Google Sheets, capacitación y procesos claros para optimizar tus estrategias de contacto en frío. Transforma cada interacción en una oportunidad para cambiar el rumbo de tu negocio.
+                                <br></br>Por solo $200, accede a una capacitación integral que incluye guiones efectivos, plantillas de trabajo en Google Sheets, capacitación y procesos claros para optimizar tus estrategias de contacto en frío. Transforma cada interacción en una oportunidad para cambiar el rumbo de tu negocio.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
