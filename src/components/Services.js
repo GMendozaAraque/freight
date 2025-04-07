@@ -34,7 +34,7 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">capacitación Estratégica</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Capacitación Estratégica</h2>
                                     <p className="text-md font-medium">
                                     Diseñamos estrategias de contacto en frío a la medida de tu negocio. Con guiones probados, plantillas prácticas y capacitación especializada, te ayudamos a convertir cada interacción en una oportunidad de negocio, maximizando tus conversiones de manera sostenible.
                                     </p>
