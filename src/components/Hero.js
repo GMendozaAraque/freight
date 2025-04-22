@@ -17,9 +17,9 @@ const Hero = () => {
                         <div className="lg:w-1/2 flex flex-col justify-center" data-aos="zoom-in" data-aos-delay="200">
                             <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900">
                             {/* We build digital solutions to help businesses scale */}
-                                Revoluciona tus Ventas de Seguros IUL
+                            Vende más seguros: Citas confirmadas con dueños de negocio latinos
                             </h1>
-                            <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">Accede a soluciones personalizadas específicamente para vendedores de seguros IUL. Obtén listas de PYMES latinas hiperlocales y actualizadas, consultorías estratégicas para llamadas en frío, servicios de agendamiento de citas y gestión de campañas publicitarias, todo diseñado para ahorrar tiempo y potenciar tus ventas.</div>
+                            <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">¿Cansado de perder tiempo con leads? Te entregamos citas confirmadas cara a cara con dueños de negocio latinos en tu condado, listos para atenderte. Olvídate de la prospección; nosotros te conectamos directamente con el tomador de decisión en un mercado clave y con alta necesidad. Invierte tu tiempo en vender, no en buscar.</div>
                             <div className="mb-4 space-x-0 md:space-x-2 md:mb-8">
                                 <Link to="/contact" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-2xl sm:w-auto sm:mb-0">
                                     Contáctanos

@@ -13,13 +13,13 @@ const Intro = () => {
                         </div>
                         <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8" data-aos="zoom-in" data-aos-delay="500">
                             
-                            <h3 className="text-3xl  text-blue-900 font-bold">En CommunityTech, transformamos tu manera de vender seguros IUL</h3>
+                            <h3 className="text-3xl  text-blue-900 font-bold">En CommunityTech, multiplicamos tus ventas</h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>Imagina liberar tu tiempo de las tareas repetitivas y enfocarte solo en lo que realmente importa: cerrar ventas. Con nuestras soluciones personalizadas, obtienes contactos de calidad, estrategias claras y un equipo de expertos que se encargan del trabajo pesado.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'> Imagina dejar de llamar leads que nunca entran al Zoom y enfocarte solo en lo que realmente importa: <b>cerrar mas ventas</b>. Con nuestro servicio especializado, te entregamos <b>citas confirmadas cara a cara con dueños de negocio latinos</b> en tu condado, listos para atenderte.</p>
                             </div>
                             
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>Nos especializamos en optimizar tu proceso de generación de prospectos, agendamiento de citas y marketing digital, para que puedas alcanzar nuevas alturas en tu negocio. Trabaja de manera más inteligente, no más dura, y deja que nuestros servicios te ayuden a hacer crecer tu negocio de manera escalable y eficiente. Haz crecer tu red de clientes y lleva tu éxito a otro nivel con CommunityTech.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>Nuestro equipo se encarga del trabajo pesado de la prospección y el agendamiento, <b>liberando tu tiempo</b> para que te concentres en las reuniones productivas. <b>Trabaja de manera más inteligente</b>, no más dura, y deja que nuestras citas de calidad te ayuden a hacer crecer tu negocio de manera eficiente.<b>Lleva tu éxito a otro nivel</b>.</p>
                             </div>
                             <Link to="/contact" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-2 my-4 text-lg shadow-xl rounded-2xl sm:w-auto sm:mb-0 group">
                                 Contáctanos

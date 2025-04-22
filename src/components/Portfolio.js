@@ -5,7 +5,7 @@ const Portfolio = () => {
     return (
         <>
             <div className="my-4 py-4" id='portfolio'>
-                <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Precios y Planes: Impulsa el Futuro de tu Negocio
+                <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Citas de alto impacto a Solo $49
                 </h2>
                 <div className='flex justify-center'>
                     <div className='w-24 border-b-4 border-blue-900 mb-8'></div>
@@ -15,9 +15,9 @@ const Portfolio = () => {
                     <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">                            
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3 min-h-max">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Rastreo de Negocios – $200 Mensuales</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Citas confirmadas, no simples leads</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                               <br></br>Por solo $200, recibe 4 listas (1 por semana) de contactos hiperlocales y actualizados que incluye el nombre del negocio, dirección, teléfono y, cuando esté disponible, sitio web y correo electrónico. Con un mínimo de 4 listas, este servicio te libera de tareas tediosas, permitiéndote concentrarte en hacer crecer tu negocio.
+                                <br></br>Recibe <b>reuniones confirmadas y verificadas</b> cara a cara con dueños de negocio latinos en tu área, listos para evaluar su seguro médico. Deja de perseguir contactos fríos e invierte directamente en oportunidades de venta reales.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -30,9 +30,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Capacitación Estratégica – $200 (Pago Único)</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Ahorra tiempo, enfócate en cerrar</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br>Por solo $200, accede a una capacitación integral que incluye guiones efectivos, plantillas de trabajo en Google Sheets, capacitación y procesos claros para optimizar tus estrategias de contacto en frío. Transforma cada interacción en una oportunidad para cambiar el rumbo de tu negocio.
+                                <br></br>Delegamos la agotadora tarea de la prospección. Nuestro equipo agenda las citas por ti. <b>Utiliza tus horas productivas para lo esencial: reunirte, conectar y vender</b>. Aumenta tu eficiencia y tus resultados.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
@@ -56,9 +56,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Appointment Setting -<br></br>Desde $500 Mensuales</h4>
+                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Inversión estratégica: <br></br>$49 por cita</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br> Confía en nuestro equipo especializado para agendar citas y conectar a tus prospectos con oportunidades reales. Con opciones flexibles adaptadas a tus necesidades, este servicio te libera de tareas operativas para que puedas concentrarte en cerrar ventas y transformar tu negocio.
+                                <br></br> Accede a citas de calidad a un precio competitivo: <b>solo $49 USD por reunión confirmada</b>. Para asegurar un flujo constante y resultados medibles, <b>requerimos una orden mínima de 15 citas</b>.
 
 
                                 </p>
@@ -73,9 +73,9 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Marketing Digital – $500 Mensuales</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Potencia tu cierre cara a cara</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    <br></br>Con $500 al mes, gestionamos y optimizamos campañas publicitarias en plataformas como Facebook e Instagram. Nuestro servicio te ayuda a generar prospectos calificados, conectándote con la audiencia adecuada y potenciando el crecimiento de tu negocio.
+                                    <br></br>Una cita presencial genera confianza y <b>aumenta drásticamente tu probabilidad de cierre</b>. Conecta genuinamente, demuestra tu valor y aprovecha el alto potencial de ROI y ventas cruzadas que cada reunión representa.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
