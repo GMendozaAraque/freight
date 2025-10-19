@@ -5,7 +5,7 @@ const Portfolio = () => {
     return (
         <>
             <div className="my-4 py-4" id='portfolio'>
-                <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Citas de alto impacto a Solo $49
+                <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Guaranteed High-Impact Inspections: Start Your 10-Day Trial.
                 </h2>
                 <div className='flex justify-center'>
                     <div className='w-24 border-b-4 border-blue-900 mb-8'></div>
@@ -15,13 +15,13 @@ const Portfolio = () => {
                     <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">                            
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3 min-h-max">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Citas confirmadas, no simples leads</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Potential Sales, Not Cold Leads.</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br>Recibe <b>reuniones confirmadas y verificadas</b> cara a cara con dueños de negocio latinos en tu área, listos para evaluar su seguro médico. Deja de perseguir contactos fríos e invierte directamente en oportunidades de venta reales.
+                                <br></br>Stop cold calling. We deliver AI automated roofing appointments with local homeowners ready to assess their damage. Stop chasing cold contacts and invest directly in real sales opportunities.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Contáctanos
+                                        Contact Us
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
@@ -30,13 +30,13 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Ahorra tiempo, enfócate en cerrar</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Maximize Your Time, Focus on the Contract.</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br>Delegamos la agotadora tarea de la prospección. Nuestro equipo agenda las citas por ti. <b>Utiliza tus horas productivas para lo esencial: reunirte, conectar y vender</b>. Aumenta tu eficiencia y tus resultados.
+                                <br></br>We delegate the exhausting task of prospecting and follow-up. Use your productive hours for the essential: meeting the homeowner, assessing the job, and closing the deal.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Contáctanos
+                                        Contact Us
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
@@ -56,15 +56,15 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Inversión estratégica: <br></br>$49 por cita</h4>
+                            <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Strategic Investment: $300 Risk-Free Trial.</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                <br></br> Accede a citas de calidad a un precio competitivo: <b>solo $49 USD por reunión confirmada</b>. Para asegurar un flujo constante y resultados medibles, <b>requerimos una orden mínima de 15 citas</b>.
+                                <br></br> Access our proven system at an unbeatably low entry cost: just $300 USD for a guaranteed 10-day pilot. This investment covers your custom ads, GHL automation setup, and aims to deliver 3-8 confirmed appointments. No long-term contracts are required to prove our system works.
 
 
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Contáctanos
+                                        Contact Us
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>
@@ -73,13 +73,13 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Potencia tu cierre cara a cara</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Maximize Your On-Site Closing Rate.</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    <br></br>Una cita presencial genera confianza y <b>aumenta drásticamente tu probabilidad de cierre</b>. Conecta genuinamente, demuestra tu valor y aprovecha el alto potencial de ROI y ventas cruzadas que cada reunión representa.
+                                    An on-site inspection builds trust and drastically increases your closing probability. Connect genuinely, demonstrate your expertise, and seize the high ROI potential that every confirmed meeting represents.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
-                                        Contáctanos
+                                        Contact Us
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
                                 </div>

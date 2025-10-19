@@ -10,12 +10,12 @@ const Services = () => {
         <div id="services" className="bg-gray-100 py-12" >
             <section data-aos="zoom-in-down">
                     <div className="my-4 py-4">
-                        <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Citas Confirmadas, Cierres Reales</h2>
+                        <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">Why Choose Us</h2>
                         
                         <div className='flex justify-center'>
                             <div className='w-24 border-b-4 border-blue-900'></div>
                         </div>
-                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">Mulriplica tus ventas de seguros con oportunidades cara a cara</h2>
+                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">The Risk-Free Appointment System</h2>
                     </div>
 
                     <div className="px-12" data-aos="fade-down" data-aos-delay="600">
@@ -24,9 +24,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Acceso directo a decisores</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Guaranteed Appointment Flow</h2>
                                     <p className="text-md font-medium">
-                                    Olvídate de los filtros. Te conectamos cara a cara con <b>dueños de negocio latinos verificados</b>. Nuestras citas confirmadas te ponen frente a la persona que toma la decisión, lista para atenderte.
+                                    We don't sell spreadsheets; we sell time on your calendar. Our proven 10-day pilot guarantees you will receive 3 to 8 confirmed appointments for free roof inspections in your service area. If we don't deliver, we adjust the strategy at no extra cost.
                                     </p>
                                 </div>
                             </div>
@@ -34,9 +34,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Alto potencial de ROI y crecimiento</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Instant Follow-Up (Powered by Pro Roof Lead)</h2>
                                     <p className="text-md font-medium">
-                                    Cada cita es una inversión con enorme potencial. Cierra la póliza y explora <b>oportunidades de upselling (empleador, empleados, referidos, etc.) y cross-selling (seguro médico, IUL, etc.)</b>. Multiplica el valor de cada cliente conseguido.
+                                    Speed is everything in roofing. Our system leverages the GoHighLevel CRM to ensure every lead receives a text, email, and follow-up call within 5 minutes of submitting their request. No more cold leads.
                                     </p>
                                 </div>
                             </div>
@@ -44,9 +44,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">El poder de la cita presencial</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Risk-Free Trial Strategy</h2>
                                     <p className="text-md font-medium">
-                                    Una reunión cara a cara construye confianza y <b>convierte significativamente más</b> que los leads o las llamadas virtuales. <b>Demuestra tu profesionalismo</b>, maneja objeciones en tiempo real y cierra más tratos visitando el negocio del prospecto.
+                                    Stop paying large agencies $2,000+ per month to "test" campaigns. Our entire 10-day system is just $300 to prove our effectiveness. You get immediate results, custom ads, and a fully automated CRM setup for a fraction of the cost.
                                     </p>
                                 </div>
                             </div>
@@ -54,9 +54,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">Maximiza tu tiempo de venta</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Exclusive Niche Focus</h2>
                                     <p className="text-md font-medium">
-                                    ¿Cuántas horas pierdes llamando? Delegamos la prospección. Recibe una agenda con citas listas para asistir. <b>Invierte tu valioso tiempo en lo que genera ingresos: reunirte, evaluar y cerrar ventas</b>.
+                                    <p>We are not a general marketing agency. We specialize 100% in the roofing industry, understanding the sales cycles, insurance claims, and seasonality of your business. Our ads are designed by roof lead experts, for roofers.</p>.
                                     </p>
                                 </div>
                             </div>                    
@@ -72,10 +72,10 @@ const Services = () => {
                                 <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 24 24" className='fill-current'><path d="M2 12h2a7.986 7.986 0 0 1 2.337-5.663 7.91 7.91 0 0 1 2.542-1.71 8.12 8.12 0 0 1 6.13-.041A2.488 2.488 0 0 0 17.5 7C18.886 7 20 5.886 20 4.5S18.886 2 17.5 2c-.689 0-1.312.276-1.763.725-2.431-.973-5.223-.958-7.635.059a9.928 9.928 0 0 0-3.18 2.139 9.92 9.92 0 0 0-2.14 3.179A10.005 10.005 0 0 0 2 12zm17.373 3.122c-.401.952-.977 1.808-1.71 2.541s-1.589 1.309-2.542 1.71a8.12 8.12 0 0 1-6.13.041A2.488 2.488 0 0 0 6.5 17C5.114 17 4 18.114 4 19.5S5.114 22 6.5 22c.689 0 1.312-.276 1.763-.725A9.965 9.965 0 0 0 12 22a9.983 9.983 0 0 0 9.217-6.102A9.992 9.992 0 0 0 22 12h-2a7.993 7.993 0 0 1-.627 3.122z"></path><path d="M12 7.462c-2.502 0-4.538 2.036-4.538 4.538S9.498 16.538 12 16.538s4.538-2.036 4.538-4.538S14.502 7.462 12 7.462zm0 7.076c-1.399 0-2.538-1.139-2.538-2.538S10.601 9.462 12 9.462s2.538 1.139 2.538 2.538-1.139 2.538-2.538 2.538z"></path></svg>
                             </div>
                             <h3 className="text-3xl  text-blue-900 
-                            font-bold">Nosotros<span className='font-black'> conectamos</span></h3>
+                            font-bold">We connect, <span className='font-black'>you close.</span></h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>
-                                En <b>CommunityTech</b>, creemos que cada agente de seguros merece acceder directamente a oportunidades de calidad. Por eso, nos especializamos en <b>generar y entregar citas confirmadas cara a cara</b> con dueños de negocio latinos listos para atenderte. Nuestro objetivo es <b>liberarte de las horas de prospección infructuosa</b>, entregándote reuniones listas para que te enfoques en cerrar ventas y construir relaciones, impulsando así tu crecimiento en el vital mercado de seguros.
+                                we believe every roofing contractor deserves direct access to high-quality, high-ticket opportunities. That's why we specialize in generating and delivering confirmed inspection appointments with local homeowners ready for service. Our goal is to free you from fruitless prospecting hours, delivering meetings ready for you to focus on closing sales and building a strong local reputation, thus driving your growth in the vital home services market.
                                 </p>
                             </div>
                         </div>
@@ -83,9 +83,9 @@ const Services = () => {
                             <div className='text-blue-900 mb-4'>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 24 24" className='fill-current'><path d="m7.375 16.781 1.25-1.562L4.601 12l4.024-3.219-1.25-1.562-5 4a1 1 0 0 0 0 1.562l5 4zm9.25-9.562-1.25 1.562L19.399 12l-4.024 3.219 1.25 1.562 5-4a1 1 0 0 0 0-1.562l-5-4zm-1.649-4.003-4 18-1.953-.434 4-18z"></path></svg>
                             </div>
-                            <h3 className="text-3xl  text-blue-900 font-bold">Colaboramos para tu<span className='font-black'> éxito</span></h3>
+                            <h3 className="text-3xl  text-blue-900 font-bold">Collaborate for <span className='font-black'>Your Success.</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>Nuestra labor es ser tu socio estratégico en el acceso al mercado empresarial latino. Entendemos los desafíos y las oportunidades únicas al conectar con dueños de negocio latinos sobre un tema tan importante como los seguros. Trabajamos para <b>convertir cada cita que te entregamos en una posibilidad real de éxito</b> para ti, facilitando conexiones significativas que te permitan no solo hacer crecer tu cartera, sino también servir eficazmente las necesidades de protección de la comunidad.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>Our job is to be your strategic partner in accessing the local homeowner market. We understand the challenges and the unique opportunities in connecting with property owners about essential services like roof inspection and replacement. We work to convert every appointment we deliver into a real possibility of success for you, providing meaningful connections that allow you to not only grow your revenue but also efficiently serve your community's protection needs.</p>
                             </div>
                         </div>
                     </div>

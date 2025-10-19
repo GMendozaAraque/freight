@@ -5,19 +5,19 @@ const NavLinks = () => {
     return (
         <>
             <HashLink className="px-4 font-extrabold text-gray-500 hover:text-blue-900" smooth to="/#about">
-                Conocenos
+                About
             </HashLink>
             <HashLink className="px-4 font-extrabold text-gray-500 hover:text-blue-900" smooth to="/#services">
-                Servicios
+                Features
             </HashLink>
             {/* <HashLink className="px-4 font-extrabold text-gray-500 hover:text-blue-900" to="/">
                 Portfolio
             </HashLink> */}
             <HashLink className="px-4 font-extrabold text-gray-500 hover:text-blue-900" to="/#portfolio">
-                Precios
+                Pricing
             </HashLink>
             <HashLink className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-auto px-6 py-3 shadow-xl rounded-xl" smooth to="/contact#contact">
-                Contáctanos
+                Contact Us
             </HashLink>
         </>
     )

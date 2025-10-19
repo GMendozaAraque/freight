@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fb94f12.css",
+    "main.js": "/static/js/main.4621a575.js",
+    "static/media/geps.png": "/static/media/geps.9868f1cd9042d3628924.png",
+    "static/media/kws.png": "/static/media/kws.bed2df15842bd50a6907.png",
+    "static/media/protergia.png": "/static/media/protergia.6407d6a1cb267decc2e1.png",
+    "static/media/Web-developer.svg": "/static/media/Web-developer.d0752c39678c78a8deaebe0de8311fbd.svg",
+    "static/media/app.svg": "/static/media/app.bfcd71b89bdcb8d09c319a7bb92ca22e.svg",
+    "static/media/consultation.svg": "/static/media/consultation.0df78d64348e8a690e4d648e61f59209.svg",
+    "static/media/web-dev.svg": "/static/media/web-dev.a165d7435da1bcfd25f5f73d4abde698.svg",
+    "static/media/footer.svg": "/static/media/footer.f7b67a1234a7ce02c909.svg",
+    "static/media/web.svg": "/static/media/web.610d010a388c6a9a831e7390faca1921.svg",
+    "static/media/hosting.svg": "/static/media/hosting.bb5abb56713005e349f3d342d4848f71.svg",
+    "index.html": "/index.html",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
+    "main.6fb94f12.css.map": "/static/css/main.6fb94f12.css.map",
+    "main.4621a575.js.map": "/static/js/main.4621a575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb94f12.css",
+    "static/js/main.4621a575.js"
+  ]
+}

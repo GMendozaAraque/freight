@@ -13,16 +13,16 @@ const Intro = () => {
                         </div>
                         <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8" data-aos="zoom-in" data-aos-delay="500">
                             
-                            <h3 className="text-3xl  text-blue-900 font-bold">En CommunityTech, multiplicamos tus ventas</h3>
+                            <h3 className="text-3xl  text-blue-900 font-bold">STOP Leaving Money on the Table. Get Confirmed Roof Inspections.</h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'> Imagina dejar de llamar leads que nunca entran al Zoom y enfocarte solo en lo que realmente importa: <b>cerrar mas ventas</b>. Con nuestro servicio especializado, te entregamos <b>citas confirmadas cara a cara con dueños de negocio latinos</b> en tu condado, listos para atenderte.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>Start advertising your free roof inspections. We specialize in turning local homeowners into potential clients for your roofing business.</p>
                             </div>
                             
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>Nuestro equipo se encarga del trabajo pesado de la prospección y el agendamiento, <b>liberando tu tiempo</b> para que te concentres en las reuniones productivas. <b>Trabaja de manera más inteligente</b>, no más dura, y deja que nuestras citas de calidad te ayuden a hacer crecer tu negocio de manera eficiente.<b>Lleva tu éxito a otro nivel</b>.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>Our automated system (Pro Roof Lead) handles the heavy lifting: automated follow-up so no one forgets to book an inspection. We automate your business advertising so you can concentrate only on the productive meetings. Work smarter, not harder, and let our team help you scale your roofing business efficiently. <br></br><br></br><b>Book Your 10-Day Appointment Guarantee.</b></p>
                             </div>
                             <Link to="/contact" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-2 my-4 text-lg shadow-xl rounded-2xl sm:w-auto sm:mb-0 group">
-                                Contáctanos
+                                Contact Us
                                 <svg className="w-4 h-4 ml-1 group-hover: translate-x-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                             </Link>
                         </div>
